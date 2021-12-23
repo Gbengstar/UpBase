@@ -5,13 +5,13 @@ UpBase is a simple user management application that allows a user to create an a
 
 ## Installation
 
-At the root of the application folder, run npm init to install all the application dependencies 
+At the root of the application folder, run npm install to install all the application dependencies 
 
 ## Database
 
 The application was designed to connect with MongoDB.
 
-##Environment settings
+## Environment settings
 
 Create a  .env file in the root folder and supply the following
 
